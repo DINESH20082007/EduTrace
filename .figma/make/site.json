@@ -1,0 +1,10 @@
+{
+  "description": "EduTrace empowers students and teachers by identifying academic gaps, generating personalized recovery paths, and enhancing learning outcomes through AI-driven analysis.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
